@@ -2,7 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3fce42-14f6-49d0-90fe-54febab8a0d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpanandTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UpanandTutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/META-INF/UpanandTutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/BasicGroovyCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/BasicGroovyCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/ClosureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/ClosureDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/ListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/ListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/MapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/RangeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/RangeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/DriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/Testtrait$Trait$Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/Testtrait$Trait$Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/TraitImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicGroovyCodePractice/groovytrait/TraitImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/AnyCenturyInMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/AnyCenturyInMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/CountChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/CountChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/FibSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/FibSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/FindFibPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/FindFibPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/HackerBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/HackerBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/IsCharInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/IsCharInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/JointChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/JointChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/NumberOfCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/NumberOfCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Pallindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Pallindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrimeNumberorNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrimeNumberorNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrintBiggestNumberInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrintBiggestNumberInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrintPrimeNumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/PrintPrimeNumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/StringReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/StringReverseUsingRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/StringReverseUsingRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/SumOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/SumOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/VowelCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/VowelCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/recursionString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/recursionString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/array/TwoDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/array/TwoDimensionalArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/DriverSingleLinkedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/DriverSingleLinkedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/SingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/SingleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/SingleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/singlinkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/linkedList/singlinkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/CircularQueueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/CircularQueueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/DriverQueueClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/DriverQueueClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/LineraQueueUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/queue/LineraQueueUsingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/stack/DriverClassForStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/stack/DriverClassForStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/stack/StackUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/stack/StackUsingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/searching/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/searching/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/searching/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/searching/LinearSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/sorting/SelectionSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +57,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basicPractice/AbstractClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -26,14 +70,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basicPractice/TestProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="51">
               <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,10 +107,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy" />
+          <option name="moduleName" value="UpanandTutorial" />
+          <option name="title" value="UpanandTutorial (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/basicPractice/TestProgram.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy" />
+        <option value="$PROJECT_DIR$/src/hackerrank/Solution.java" />
       </list>
     </option>
   </component>
@@ -82,12 +151,6 @@
               <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basicPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -98,6 +161,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-groovy-sdk-3.0.3/groovy-3.0.3/lib/ant-1.10.7.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,6 +178,40 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Solution" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicPractice.TestProgram" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.TestProgram" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,31 +238,35 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info anchor="bottom" id="Log Analyzer" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,11 +283,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basicPractice/TestProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="51">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -189,9 +312,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-3.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
