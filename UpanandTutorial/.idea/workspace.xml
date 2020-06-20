@@ -166,7 +166,7 @@
         <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -321,13 +321,6 @@
               <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
-              <item name="stringques" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -487,9 +480,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61456484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -962,7 +954,7 @@
     <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
