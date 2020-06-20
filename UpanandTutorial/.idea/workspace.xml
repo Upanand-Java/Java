@@ -2,7 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3fce42-14f6-49d0-90fe-54febab8a0d3" name="Default Changelist" comment="committed">
+      <change afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/src/basicJava/streamApi/RemoveVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/linkedList/linkedlistinSameclass/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immutable/AddressClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immutable/ImmutabilityConceptStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immutable/ImplementingImmutableConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/FirstAndLastinLogn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/PascalTraingal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDuplicateOceAgainWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/SortByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/kandansAlgoOnceAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubarraywithSum0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstringOnceAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColNumToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColoumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/math/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/math/LcmAndGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/META-INF/UpanandJavaTutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/AuthenticateUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/AuthenticateUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/CustomizedSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/CustomizedSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EmpManagmntImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EmpManagmntImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EmployeeManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EmployeeManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EngAllowedFOrPub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/EngAllowedFOrPub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/Interf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/Interf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceMainMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceMainMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/InterfaceStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/NameStartWithK.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/NameStartWithK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateRemoveNullandEmpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateRemoveNullandEmpty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateStringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateUsingThereDefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/PredicateUsingThereDefaultMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/SoftwareEngineer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/SoftwareEngineer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/SortingWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/SortingWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TestForDefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TestForDefaultMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TestWithLeftandRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TestWithLeftandRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadCreationWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadCreationWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/ThreadithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TreeMapCustomizedSortingWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TreeMapCustomizedSortingWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TreeSetWithLambdaExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/TreeSetWithLambdaExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/DefaultMethodInFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/DefaultMethodInFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/UserAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/UserAuthentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StatisticsAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StatisticsAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator$StatisticsAggregatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator$StatisticsAggregatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/streamApi/BasicDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/streamApi/BasicDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/streamApi/ForEachMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/streamApi/ForEachMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/stringprogramming/FirstNonRepeatedCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/stringprogramming/FirstNonRepeatedCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/supplier/GenerateRandomPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/supplier/GenerateRandomPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/supplier/SupplierMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/supplier/SupplierMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/threadpool/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/threadpool/DriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/threadpool/ThreadPoolSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandJavaTutorial/out/production/UpanandJavaTutorial/basicJava/threadpool/ThreadPoolSample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/customizedhmapsorting/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/customizedhmapsorting/DriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/leetcode/NodeDriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/leetcode/NodeDriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/leetcode/NodeImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/leetcode/NodeImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/immutable/ImmutableClassStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/immutable/ImmutableClassStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/synechron/MapAndSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/synechron/MapAndSortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customizedhmapsorting/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customizedhmapsorting/DriverClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/hashtable/FirstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/hashtable/FirstUniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/hashtable/IntersectionOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/hashtable/IntersectionOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/leetcode/NodeDriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/leetcode/NodeDriverClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/leetcode/NodeImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/leetcode/NodeImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/immutable/ImmutableClassStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/immutable/ImmutableClassStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/missiondsa180Ques/array/DupinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/DupinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/missiondsa180Ques/array/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/MergeTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDUplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDUplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/synechron/MapAndSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/synechron/MapAndSortString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,56 +105,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicPractice/AbstractClass.java">
+        <entry file="file://$PROJECT_DIR$/src/dataStructure/leetcode/NodeImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="431" column="6" lean-forward="true" selection-start-line="431" selection-start-column="6" selection-end-line="431" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designpattern/singlton/Singelton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicPractice/TestProgram.java">
+        <entry file="file://$PROJECT_DIR$/src/immutable/AddressClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrank/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/immutable/DriverClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immutable/DriverOfEmployeeImmutable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immutable/ImmutabilityConceptStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#935#965#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/IsLapindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/string/LongestSubString.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="194">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immutable/ImplementingImmutableConcept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="14" column="118" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immutable/ImmutableClassStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dataStructure/leetcode/NodeDriverClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -79,6 +209,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bookingInterval</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -97,17 +232,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/basicPractice/TestProgram.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy" />
-        <option value="$PROJECT_DIR$/src/hackerrank/Solution.java" />
-        <option value="$PROJECT_DIR$/src/string/IsLapindrome.java" />
-        <option value="$PROJECT_DIR$/src/string/LongestSubString.java" />
+        <option value="$PROJECT_DIR$/src/basicPractice/Segregattor.java" />
+        <option value="$PROJECT_DIR$/src/basicPractice/MatheMaticalOperation.java" />
+        <option value="$PROJECT_DIR$/src/customizedhmapsorting/DriverClass.java" />
+        <option value="$PROJECT_DIR$/src/synechron/Student.java" />
+        <option value="$PROJECT_DIR$/src/synechron/MapAndSortString.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/stack/MatheMaticalExpression.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/stack/Expression.java" />
+        <option value="$PROJECT_DIR$/src/systemdesign/Fare.java" />
+        <option value="$PROJECT_DIR$/src/systemdesign/Interval.java" />
+        <option value="$PROJECT_DIR$/src/systemdesign/Space.java" />
+        <option value="$PROJECT_DIR$/src/systemdesign/ParkingLot.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/array/NumberFrequency.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/array/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/dsa180Ques/array/DupinArray.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/Sort012.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/RepeatAndMissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/ArrayAndFreq.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/PascalTraingal.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/FirstAndLastinLogn.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/SortByParity.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/maxProfit.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColNumToString.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColoumn.java" />
+        <option value="$PROJECT_DIR$/src/immutable/AddressClass.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/PositiveNegative.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/FactorialTrailingZeroes.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/LcmAndGcd.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubarraywithSumk.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubarraywithSum0.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/DupinArray.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/kandansAlgoOnceAgain.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/MergeTwoSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDUplicates.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDuplicateOceAgainWhile.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstringOnceAgain.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/linkedList/linkedlistinSameclass/Node.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/linkedList/linkedlistinSameclass/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/hashtable/FirstUniqueChar.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/hashtable/IntersectionOfArray.java" />
+        <option value="$PROJECT_DIR$/src/immutable/ImmutableClassStudent.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/leetcode/NodeImplementation.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/leetcode/NodeDriverClass.java" />
+        <option value="$PROJECT_DIR$/src/immutable/ImmutabilityConceptStudent.java" />
+        <option value="$PROJECT_DIR$/src/immutable/ImplementingImmutableConcept.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
+    <option name="x" value="6" />
+    <option name="y" value="60" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
@@ -133,7 +320,14 @@
               <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+              <item name="stringques" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,6 +349,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="string" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="immutable" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,13 +365,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestSubString">
-    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.LongestSubString" />
+  <component name="RunManager" selected="Application.LongestPallindromeQues">
+    <configuration name="IntersectionOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.hashtable.IntersectionOfArray" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="dataStructure.hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +379,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Solution" />
+    <configuration name="LongestPallindromeQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.stringques.LongestPallindromeQues" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="missiondsa180Ques.stringques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +392,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicPractice.TestProgram" />
+    <configuration name="NodeDriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.leetcode.NodeDriverClass" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicPractice.*" />
+          <option name="PATTERN" value="dataStructure.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.hashtable.SetMismatch" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.hashtable.SingleNumber" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,9 +433,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubString" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.TestProgram" />
+        <item itemvalue="Application.LongestPallindromeQues" />
+        <item itemvalue="Application.NodeDriverClass" />
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.SetMismatch" />
+        <item itemvalue="Application.IntersectionOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -251,10 +476,20 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,83 +497,472 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09769094" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.61456484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
-      <window_info anchor="bottom" id="Log Analyzer" order="11" />
-      <window_info anchor="bottom" id="SOQL Query" order="12" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Log Analyzer" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="SOQL Query" order="12" weight="0.3285968" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25587043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3428064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.61456484" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Log Analyzer" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="SOQL Query" order="12" weight="0.3285968" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32955465" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="committed" />
     <option name="LAST_COMMIT_MESSAGE" value="committed" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="main" language="JAVA" />
+        <watch expression="main" language="JAVA" />
+        <watch expression="main" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>main</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>characters.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element[i] == ']' || element[i] == '}' || element[i] ==')'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy">
+    <entry file="file://$PROJECT_DIR$/src/javacursor/ImplementComparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicPractice/AbstractClass.java">
+    <entry file="file://$PROJECT_DIR$/src/javacursor/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicPractice/TestProgram.java">
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/stack/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/PositiveNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/math/Lcm/Gcd.java" />
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/ArrayAndFreq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/DupinArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/FirstAndLastinLogn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/FirstMissingPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/kandansAlgoOnceAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/MergeTwoSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        <state relative-caret-position="357">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/PascalTraingal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/IsLapindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDuplicateOceAgainWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveDUplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="59" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RepeatAndMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/Sort012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/SortByParity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubarraywithSum0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstringOnceAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColoumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/math/ExcelColNumToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/math/FactorialTrailingZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/math/LcmAndGcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithreading/ThrdDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/linkedList/linkedlistinSameclass/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/FirstUniqueChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/FourSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/IntersectionOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/SetMismatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubString.java">
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/SmallerThanCurrentNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/hashtable/WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/leetcode/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singlton/ImplementationClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/AddressClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/DriverClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/DriverOfEmployeeImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singlton/Singelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/leetcode/NodeDriverClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/leetcode/NodeImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="431" column="6" lean-forward="true" selection-start-line="431" selection-start-column="6" selection-end-line="431" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/ImmutableClassStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/ImmutabilityConceptStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#935#965#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immutable/ImplementingImmutableConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="118" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/LongestPallindromeQues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>

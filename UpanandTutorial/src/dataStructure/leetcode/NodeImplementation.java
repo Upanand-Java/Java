@@ -219,6 +219,21 @@ public class NodeImplementation {
        return head;
    }
 
+   public Node del(int d){
+        Node n1 = head;
+        Node temp = n1;
+        while (temp.value != d){
+            temp = temp.next;
+        }
+        temp.next = temp.next.next;
+        return n1;
+   }
+
+
+
+
+
+
    public int getLength(){
         Node n1 = head;
         int len = 0;
@@ -279,6 +294,149 @@ public class NodeImplementation {
         return head;
 
     }
+
+    public Node mergeTwoLists(Node l1, Node l2) {
+
+        Node firstHead = l1;
+        Node secondHead = l2;
+        Node lowPointer = null;
+        Node highPointer = null;
+        Node ln = null;
+
+        while (firstHead !=null && secondHead !=null){
+            if(firstHead.value > secondHead.value){
+                ln = new Node(secondHead.value,null);
+                secondHead = secondHead.next;
+            }else if(firstHead.value < secondHead.value) {
+                ln = new Node(firstHead.value,null);
+                firstHead = firstHead.next;
+
+            }else{
+                ln = new Node(firstHead.value,null);
+                ln.next = ln;
+                secondHead = secondHead.next;
+                firstHead = firstHead.next;
+            }
+            ln.next = ln;
+        }
+
+        return ln;
+
+
+    }
+
+
+    public Node reverseInK(int k){
+        Node hd = head;
+        int counter = 0;
+        Node head1 = head;
+        Node tempHead = head;
+        int idex =0;
+        while (k>idex){
+            tempHead = tempHead.next;
+            idex++;
+        }
+        Node newHead = reverseWithK(head1 , k);
+        Node merged =mergeTwoLists(newHead,tempHead);
+
+
+
+
+
+
+        while(hd != null){
+            hd = hd.next;
+            counter++;
+
+            if(counter % k == 0 ){
+
+               merged.next = reverseWithK(hd , k);
+
+
+
+            }
+
+
+        }
+
+        return merged;
+
+
+
+    }
+
+
+    public Node reverseWithK(Node n , int k){
+        Node current = n;
+        Node prev = null;
+        Node next = null;
+        int count = 0;
+        while (count<k){
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
+            count++;
+        }
+        return prev;
+    }
+
+    public Node merging(Node n1,Node n2){
+        Node newNode = new Node(0,null);
+        Node new_head = newNode;
+
+        while(n1 !=null){
+            new_head.next = new Node(n1.value,null);
+            new_head = new_head.next;
+            n1 = n1.next;
+        }
+
+        while(n2 != null){
+            new_head.next = new Node(n2.value,null);
+            new_head = new_head.next;
+            n2 = n2.next;
+        }
+        return new_head.next;
+
+    }
+
+    public Node delDupUnsorted(){
+        Node n1 = head;
+        Node n2 = null;
+
+        while (n1 !=null && n1.next !=null){
+            n2 = n1;
+            while (n2.next != null) {
+                if (n1.value == n2.next.value) {
+                    System.out.println(n2.next.value + "duplicate value !!,<-");
+                   // dup = n2.next;
+                    n2.next = n2.next.next;
+
+                } else {
+                    n2 = n2.next;
+                }
+            }
+            n1 = n1.next;
+
+        }
+        return head;
+    }
+
+    public Node delDup(){
+        Node n1 = head;
+        while (n1 != null && n1.next != null){
+            if (n1.value == n1.next.value){
+                n1.next = n1.next.next;
+            }else{
+                n1 = n1.next;
+            }
+        }
+        return head;
+    }
+
+
+
+
 
 
 }

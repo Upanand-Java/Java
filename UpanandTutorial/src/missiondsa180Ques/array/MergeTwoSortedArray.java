@@ -7,7 +7,7 @@ public class MergeTwoSortedArray {
         int[] nums1 = {1,3,4,0,0,0};
         int m = 3;
         int[] nums2 = {1,2,6};
-        //int n = nums2.length;
+        //int n = nums  2.length;
 
         int longArrayTail = m-1;
         int shortArrayTail = nums2.length-1;

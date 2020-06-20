@@ -13,12 +13,12 @@ public class FirstUniqueChar {
 
         for(int i=0;i<n;i++){
             Character character = s.charAt(i);
-            integerHashMap.put(character,integerHashMap.getOrDefault(character,-1)+1);
+            integerHashMap.put(character,integerHashMap.getOrDefault(character,0)+1);
         }
         System.out.println(integerHashMap);
 
         for(int i=0;i<n;i++){
-            if(integerHashMap.get(s.charAt(i))==0){
+            if(integerHashMap.get(s.charAt(i))==1){
                 System.out.println(i);
                 break;
             }

@@ -10,19 +10,20 @@ import java.util.List;
 
 public class DupinArray {
     public static void main(String[] args) {
-        int[] arr = {1,2,3,2,1,8,4,3};
+        int[] arr = {1,3,4,2,2};
         List<Integer>  list = new LinkedList<>();
+        int x =0;
         for(int i=0;i<arr.length;i++) {
             int index = Math.abs(arr[i]) -1;
 
             if(arr[index] >0){
                 arr[index] = -arr[index];
             }else{
-                list.add(Math.abs(arr[i]));
+             x =   Math.abs(arr[i]);
             }
         }
 
-        System.out.println(list);
+        System.out.println(x);
 
 
 

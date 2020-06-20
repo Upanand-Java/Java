@@ -1,6 +1,7 @@
 package immutable;
 
-public final class ImmutableClassStudent {
+public final class
+ImmutableClassStudent {
    final String name;
    final int id;
     final int marks;

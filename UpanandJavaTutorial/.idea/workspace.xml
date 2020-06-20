@@ -1,41 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fbeaac-8d1d-4d2b-b18e-f2129d311956" name="Default Changelist" comment="" />
+    <list default="true" id="3ae1914f-1915-4921-b0b2-f127f9df5dd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicJava/streamApi/RemoveVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/immutable/AddressClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/immutable/ImmutabilityConceptStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/immutable/ImplementingImmutableConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/FirstAndLastinLogn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/PascalTraingal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/SortByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/math/ExcelColNumToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/math/ExcelColoumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/math/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/math/LcmAndGcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/META-INF/UpanandJavaTutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/AuthenticateUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/AuthenticateUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/CustomizedSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/CustomizedSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EmpManagmntImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EmpManagmntImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EmployeeManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EmployeeManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EngAllowedFOrPub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/EngAllowedFOrPub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/Interf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/Interf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceMainMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceMainMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/InterfaceStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/NameStartWithK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/NameStartWithK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateRemoveNullandEmpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateRemoveNullandEmpty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateStringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateUsingThereDefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/PredicateUsingThereDefaultMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/SoftwareEngineer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/SoftwareEngineer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/SortingWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/SortingWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TestForDefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TestForDefaultMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TestWithLeftandRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TestWithLeftandRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadCreationWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadCreationWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadWIthAnonymousInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/ThreadithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TreeMapCustomizedSortingWithLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TreeMapCustomizedSortingWithLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TreeSetWithLambdaExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/TreeSetWithLambdaExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/DefaultMethodInFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/DefaultMethodInFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/UserAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/defaultFuntionalInteface/funtion/UserAuthentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StatisticsAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StatisticsAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator$StatisticsAggregatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator$StatisticsAggregatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/hackerearth/StockPriceAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/streamApi/BasicDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/streamApi/BasicDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/streamApi/ForEachMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/streamApi/ForEachMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/stringprogramming/FirstNonRepeatedCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/stringprogramming/FirstNonRepeatedCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/supplier/GenerateRandomPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/supplier/GenerateRandomPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/supplier/SupplierMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/supplier/SupplierMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/threadpool/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/threadpool/DriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/threadpool/ThreadPoolSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandJavaTutorial/basicJava/threadpool/ThreadPoolSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/out/production/UpanandTutorial/customizedhmapsorting/DriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/out/production/UpanandTutorial/customizedhmapsorting/DriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/out/production/UpanandTutorial/synechron/MapAndSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/out/production/UpanandTutorial/synechron/MapAndSortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/src/customizedhmapsorting/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/src/customizedhmapsorting/DriverClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/src/missiondsa180Ques/array/KandanAlgoMaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UpanandTutorial/src/synechron/MapAndSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UpanandTutorial/src/synechron/MapAndSortString.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="UpanandJavaTutorial" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/BasicDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="40" column="38" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/RemoveVowel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="46" column="62" lean-forward="true" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/ForEachMethodDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1YIFJs2nfhy0CZGS4VBzjLId0SD" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/basicJava/streamApi/RemoveVowel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="60" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UpanandJavaTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandJavaTutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandJavaTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandJavaTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandJavaTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandJavaTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basicJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandJavaTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandJavaTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basicJava" type="462c0819:PsiDirectoryNode" />
+              <item name="funtion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandJavaTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandJavaTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basicJava" type="462c0819:PsiDirectoryNode" />
+              <item name="streamApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DriverClass">
-    <configuration name="BasicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava.streamApi.BasicDemo" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RemoveVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava.streamApi.RemoveVowel" />
       <module name="UpanandJavaTutorial" />
       <extension name="coverage">
         <pattern>
@@ -47,65 +234,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava.threadpool.DriverClass" />
-      <module name="UpanandJavaTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicJava.threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstNonRepeatedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava.stringprogramming.FirstNonRepeatedCharacter" />
-      <module name="UpanandJavaTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicJava.stringprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortingWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava.SortingWithLambda" />
-      <module name="UpanandJavaTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadCreationWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava.ThreadCreationWithLambda" />
-      <module name="UpanandJavaTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DriverClass" />
-        <item itemvalue="Application.FirstNonRepeatedCharacter" />
-        <item itemvalue="Application.ThreadCreationWithLambda" />
-        <item itemvalue="Application.BasicDemo" />
-        <item itemvalue="Application.SortingWithLambda" />
+        <item itemvalue="Application.RemoveVowel" />
       </list>
     </recent_temporary>
   </component>
@@ -114,69 +245,103 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5fbeaac-8d1d-4d2b-b18e-f2129d311956" name="Default Changelist" comment="" />
-      <created>1582622132065</created>
+      <changelist id="3ae1914f-1915-4921-b0b2-f127f9df5dd9" name="Default Changelist" comment="" />
+      <created>1592051961823</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582622132065</updated>
+      <updated>1592051961823</updated>
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587805756057">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587805756057" />
-    <state x="549" y="130" key="FileChooserDialogImpl" timestamp="1583642636312">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583642636312" />
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1587808777455">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587808777455" />
-    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1587808777455">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587808777455" />
-    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1587808777455">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587808777455" />
-    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1587808777455">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587808777455" />
-    <state x="439" y="112" key="NewModule_or_Project.wizard" timestamp="1582802698340">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="439" y="112" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1582802698340" />
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1587900249672">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587900249672" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1583386098333">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583386098333" />
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24291497" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Log Analyzer" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29129663" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/basicJava/supplier/SupplierMain.java</url>
-          <line>6</line>
-          <properties class="basicJava.supplier.SupplierMain" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/basicJava/defaultFuntionalInteface/funtion/BasicStringLnth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/ForEachMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/defaultFuntionalInteface/funtion/StudentImplementedWithFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="46" column="62" lean-forward="true" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/RemoveVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/streamApi/BasicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/UpanandJavaTutorial$StudentImplementedWithFunction.ic" NAME="StudentImplementedWithFunction Coverage Results" MODIFIED="1583324522335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>basicJava.defaultFuntionalInteface.funtion.*</FILTER>
-    </SUITE>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

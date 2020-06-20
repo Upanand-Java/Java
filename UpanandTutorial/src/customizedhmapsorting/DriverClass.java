@@ -13,7 +13,7 @@ public class DriverClass {
         ArrayList<Student> students = new ArrayList<>();
         students.addAll(integerStudentHashMap.values());
 
-        Collections.sort(students, Comparator.comparingInt(e->-e.id));
+        Collections.sort(students, Comparator.comparingInt(e->e.id));
         LinkedHashMap<Integer , Student> integerStudentLinkedHashMap = new LinkedHashMap<>();
         int index = 1;
         for (Student studentArrayList: students){

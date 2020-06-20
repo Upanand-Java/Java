@@ -4,20 +4,21 @@ import java.util.*;
 
 public class MapAndSortString {
     public static void main(String[] args) {
-        String s = "the the word word were ewe were ere esr esr ear qw w q the the the word were were";
-        String[] arr = s.split(" ");
+
+
+        Student student = new Student("upanand",560068);
+        Student student1 = new Student("virat",600566);
+        Student student2 = new Student("Rahul" , 345666);
+
         LinkedHashMap<String,Integer> hashMap = new LinkedHashMap<>();
-        for(int i=0;i<=arr.length-1;i++){
-            if(hashMap.containsKey(arr[i])){
-               hashMap.put(arr[i],hashMap.get(arr[i])+1);
-            }else{
-                hashMap.put(arr[i],1);
-            }
-        }
+        hashMap.put(student.name,student.getZipcode());
+        hashMap.put(student1.name , student1.getZipcode());
+        hashMap.put(student2.name , student2.getZipcode());
+
         System.out.println(hashMap);
         Set<Map.Entry<String,Integer>> entries = hashMap.entrySet();
         List<Map.Entry<String,Integer>> entries1 = new ArrayList<>(entries);
-        Collections.sort(entries1,Comparator.comparingInt(e->-e.getValue()));
+        Collections.sort(entries1,Comparator.comparingInt(e->e.getValue()));
 
         LinkedHashMap<String,Integer> linkedHashMap = new LinkedHashMap<>(entries1.size());
 
