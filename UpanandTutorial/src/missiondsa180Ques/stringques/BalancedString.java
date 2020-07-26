@@ -2,7 +2,7 @@ package missiondsa180Ques.stringques;
 
 public class BalancedString {
     public static void main(String[] args) {
-        String s ="RLRRLLRLRL";
+        String s ="RLRRLLRLR";
         int rCOunter = 0;
         int lcounter = 0;
         int totalBalnced = 0;

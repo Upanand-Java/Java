@@ -9,9 +9,11 @@ public class CountFrequencies {
 
         //to change in n-1
 
-        for(int i=0;i<n;i++){
-            arr[i] = arr[i]-1;
-        }
+        for(int i=0;i<n;i++){    //2,3,2,1 -ques
+            arr[i] = arr[i]-1;  //1,2,1,0
+                                //arr[1] =2
+        }                       //arr[2] = 1 , arr[2] = 9 , arr[3]
+
 
         for(int j=0;j<n;j++){
             arr[arr[j]%n] = arr[arr[j]%n]+n;

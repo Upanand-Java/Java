@@ -28,10 +28,10 @@ public class col {
             @Override
             public int compare(student o1, student o2) {
                 if(o1.id>o2.id){
-                    return -1;
-                }else if(o1.id<o2.id){
                     return 1;
-                }else{
+                }else if(o1.id<o2.id){
+                    return -1;
+                }else {
                     return 0;
                 }
             }

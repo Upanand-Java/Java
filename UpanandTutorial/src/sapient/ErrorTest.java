@@ -12,7 +12,7 @@ public class ErrorTest {
             erroetest1();
             System.out.println("Under try!!");
 
-        }catch (Error e){
+        }catch (Exception e){
             System.out.println("under catch");
         }finally {
             System.out.println("under finally");

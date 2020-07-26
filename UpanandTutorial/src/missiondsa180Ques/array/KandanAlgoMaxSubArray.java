@@ -3,7 +3,7 @@ package missiondsa180Ques.array;
 public class KandanAlgoMaxSubArray {
 
     public static void main(String[] args) {
-        int[] arr = {-2,-3,-1};
+        int[] arr = {-2,-3,-7,61};
 
         int max_value = 0;
         int current =0;

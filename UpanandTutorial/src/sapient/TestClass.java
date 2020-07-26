@@ -12,13 +12,14 @@ public class TestClass {
 
         }
         public static class Test {
-            public void m1(String o){
-                System.out.println("in obj");
+            public void m1(Integer o){
+                System.out.println("in Intger");
             }
-
-
-            public void m1(int c){
-                System.out.println("in String");
+            public void m1(Object o){
+                System.out.println("in Object");
+            }
+            public void m1(Number c){
+                System.out.println("in Number");
             }
 
 

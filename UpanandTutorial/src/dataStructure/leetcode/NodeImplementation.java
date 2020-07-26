@@ -222,9 +222,10 @@ public class NodeImplementation {
    public Node del(int d){
         Node n1 = head;
         Node temp = n1;
-        while (temp.value != d){
+        while (temp.next.value != d && temp.next != null){
             temp = temp.next;
         }
+       System.out.println("temp "+temp.value);
         temp.next = temp.next.next;
         return n1;
    }
@@ -296,73 +297,91 @@ public class NodeImplementation {
     }
 
     public Node mergeTwoLists(Node l1, Node l2) {
-
-        Node firstHead = l1;
-        Node secondHead = l2;
-        Node lowPointer = null;
-        Node highPointer = null;
-        Node ln = null;
-
-        while (firstHead !=null && secondHead !=null){
-            if(firstHead.value > secondHead.value){
-                ln = new Node(secondHead.value,null);
-                secondHead = secondHead.next;
-            }else if(firstHead.value < secondHead.value) {
-                ln = new Node(firstHead.value,null);
-                firstHead = firstHead.next;
-
-            }else{
-                ln = new Node(firstHead.value,null);
-                ln.next = ln;
-                secondHead = secondHead.next;
-                firstHead = firstHead.next;
+        Node dummyHead = new Node(0,null);
+      //  dummyHead.next = null;
+        Node newNode = dummyHead;
+        while(l1 != null && l2 != null){
+            if(l1.value < l2.value){
+                newNode.next = new Node(l1.value,null);
+                newNode =newNode.next;
+                l1 = l1.next;
+            }else if(l2.value<l1.value){
+                newNode.next = new Node(l2.value,null);
+                newNode = newNode.next;
+                l2 = l2.next;
+            }else {
+                newNode.next = new Node(l1.value,null);
+                newNode = newNode.next;
+                l1 = l1.next;
+                newNode.next = new Node(l2.value,null);
+                newNode = newNode.next;
+                l2 = l2.next;
             }
-            ln.next = ln;
         }
 
-        return ln;
+        while (l1 != null){
+            newNode.next = new Node(l1.value,null);
+            newNode = newNode.next;
+            l1 = l1.next;
+
+        }
+
+        while (l2 != null){
+            newNode.next = new Node(l2.value,null);
+            newNode = newNode.next;
+            l2 = l2.next;
+
+        }
+
+
+
+        return dummyHead.next;
 
 
     }
 
 
-    public Node reverseInK(int k){
-        Node hd = head;
-        int counter = 0;
-        Node head1 = head;
-        Node tempHead = head;
-        int idex =0;
-        while (k>idex){
-            tempHead = tempHead.next;
-            idex++;
-        }
-        Node newHead = reverseWithK(head1 , k);
-        Node merged =mergeTwoLists(newHead,tempHead);
+    public Node reverseKGroup(Node head, int k) {
+        Node begin;
+        if (head==null || head.next ==null || k==1)
+            return head;
+        Node dummyhead = new Node(-1);
+        dummyhead.next = head;
+        begin = dummyhead;
+        int i=0;
+        while (head != null){
+            i++;
+            System.out.println("i is"+i);
+            if (i%k == 0){
+                System.out.println("head is "+head.value);
+                begin = reversek(begin, head.next);
+                head = begin.next;
 
-
-
-
-
-
-        while(hd != null){
-            hd = hd.next;
-            counter++;
-
-            if(counter % k == 0 ){
-
-               merged.next = reverseWithK(hd , k);
-
-
-
+            } else {
+                head = head.next;
             }
-
-
         }
+        return dummyhead.next;
 
-        return merged;
+    }
 
-
-
+    public Node reversek(Node begin, Node end){
+       System.out.println("inside method "+begin.value+" end "+end.value);
+        Node curr = begin.next;
+        Node next, first;
+        Node prev = begin;
+        first = curr;
+        while (curr!=end){
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        begin.next = prev; //for joining the one group to another group of node
+        System.out.println("current "+curr.value);
+        first.next = curr;
+        System.out.println("first "+first.value);
+        return first;
     }
 
 
@@ -378,7 +397,8 @@ public class NodeImplementation {
             current = next;
             count++;
         }
-        return prev;
+        //return prev;
+        return current;
     }
 
     public Node merging(Node n1,Node n2){
@@ -433,6 +453,79 @@ public class NodeImplementation {
         }
         return head;
     }
+
+    public Node delAllDup(){
+        if(head == null){
+            return null;
+        }
+
+        Node node = new Node(0,null);
+        node.next = head;
+        Node tempNode =node;
+        Node current = head;
+
+        while(current != null){
+            while(current.next != null && current.value == current.next.value){
+                current = current.next;
+            }
+            if(tempNode.next == current){
+                tempNode = tempNode.next;
+            }else{
+                tempNode.next = current.next;
+            }
+            current = current.next;
+        }
+        return node.next;
+    }
+
+
+    public Node insertAtMiddleNode( int value){
+        Node n1 = head;
+        int length = 0;
+        Node node =  new Node(value,null);
+
+        while(n1 != null){
+            n1 = n1.next;
+            length++;
+        }
+        int mid = length/2;
+        n1 = head;
+        int count =1;
+        while(count != mid){
+            n1 = n1.next;
+            count++;
+        }
+        Node tempNode = n1.next;
+        n1.next = node;
+        node.next = tempNode;
+
+        return head;
+    }
+
+
+    public Node deleteNodeAgain(int k){
+        Node n1 = head;
+        System.out.println("K is "+k);
+        int count = 0;
+        while (n1  != null){
+            n1 = n1.next;
+            count++;
+        }
+        System.out.println("size of list is "+count);
+        int indexDel = count -k+1;
+        n1 = head;
+        count = 1;
+        while (count != indexDel-1){
+            n1 = n1.next;
+            count++;
+
+        }
+        System.out.println("n1 val "+n1.value);
+        n1.next = n1.next.next;
+        return head;
+    }
+
+
 
 
 

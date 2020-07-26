@@ -19,7 +19,7 @@ class A {
 
 class B extends A {
     public B() {
-        super();
+      //  super();
         System.out.print("B");
         //super();
     }
@@ -43,6 +43,6 @@ public class Try {
 
      A a = new B();
      a.m1("");
-     a.m1Loaded("");
+    // a.m1Loaded("");
     }
 }

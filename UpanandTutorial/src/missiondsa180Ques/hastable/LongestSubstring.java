@@ -6,34 +6,42 @@ import java.util.LinkedHashSet;
 
 public class LongestSubstring {
     public static void main(String[] args) {
-        String s = "pwwkew";
+        String s = "pwwkewabcdabc";
 
-        HashSet<Character> characters = new HashSet<>();
+        HashMap<Character,Integer> characters = new HashMap<>();
         int maxlength = 0;
-        int startIndex = 0;
 
+        int x = 0;
 
         for(int i=0;i<s.length();i++){
-            if(characters.contains(s.charAt(i))){
+            if(characters.containsKey(s.charAt(i))){
 
-                int diff = i-startIndex;
-                if(diff>maxlength){
-                    maxlength =diff;
-                }
+                i = characters.get(s.charAt(i));
+               // x =i+1;
+
                 characters.clear();
-                characters.add(s.charAt(i));
-                startIndex =i;
+
+
 
             }else {
 
-                characters.add(s.charAt(i));
+                characters.put(s.charAt(i),i);
             }
+
+
+            if(characters.size()>maxlength) {
+               // x = i;
+               maxlength = characters.size();
+           }
         }
 
-          if(maxlength==0)
-              maxlength = s.length();
 
-          System.out.println("Max length "+maxlength);
+
+        //  System.out.println("Max length "+maxlength+" "+forStr);
+
+         // String result = s.substring(forStr,forStr+maxlength);
+
+        System.out.println(maxlength+"i ");
 
 
     }

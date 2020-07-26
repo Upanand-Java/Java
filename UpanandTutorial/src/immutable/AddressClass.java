@@ -2,6 +2,15 @@ package immutable;
 
 public class AddressClass implements Cloneable  {
     String Zipcode;
+    String flatNo;
+
+    public String getFlatNo() {
+        return flatNo;
+    }
+
+    public void setFlatNo(String flatNo) {
+        this.flatNo = flatNo;
+    }
 
     public String getZipcode() {
         return Zipcode;
@@ -15,7 +24,7 @@ public class AddressClass implements Cloneable  {
         Zipcode = zipcode;
     }
 
-    public Object clone() throws CloneNotSupportedException{
+    protected Object clone() throws CloneNotSupportedException{
         return super.clone();
     }
 }

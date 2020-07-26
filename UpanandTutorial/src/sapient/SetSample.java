@@ -12,7 +12,7 @@ public class SetSample {
         try {
             int c = 1/0;
 
-        } catch (ArithmeticException e) {
+        } catch (Throwable e) {
             System.out.println("E ");
             e.printStackTrace();
         } finally {

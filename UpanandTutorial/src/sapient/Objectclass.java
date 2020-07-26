@@ -57,17 +57,13 @@ public class Objectclass {
 
     public static void main(String[] args) {
         Student student = new Student(1,"upa");
-        Student student1 = new Student(6,"upa");
+        Student student1 = new Student(6,"up.a");
 
         Map<Student,String> studentStringMap = new HashMap<>();
         studentStringMap.put(student,"CSE");
         studentStringMap.put(student1,"IT");
-        studentStringMap.put(null,"it");
-        studentStringMap.put(null,"it");
 
         System.out.println(studentStringMap);
-
-        System.out.println("equal "+(student.equals( student1)));
 
 
     }

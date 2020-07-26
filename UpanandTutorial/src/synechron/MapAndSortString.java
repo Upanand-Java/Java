@@ -16,8 +16,8 @@ public class MapAndSortString {
         hashMap.put(student2.name , student2.getZipcode());
 
         System.out.println(hashMap);
-        Set<Map.Entry<String,Integer>> entries = hashMap.entrySet();
-        List<Map.Entry<String,Integer>> entries1 = new ArrayList<>(entries);
+       // Set<Map.Entry<String,Integer>> entries = ;
+        List<Map.Entry<String,Integer>> entries1 = new ArrayList<>(hashMap.entrySet());
         Collections.sort(entries1,Comparator.comparingInt(e->e.getValue()));
 
         LinkedHashMap<String,Integer> linkedHashMap = new LinkedHashMap<>(entries1.size());
@@ -27,9 +27,9 @@ public class MapAndSortString {
         }
         System.out.println("After sorting");
         System.out.println(linkedHashMap);
-        for(Map.Entry<String,Integer> result: linkedHashMap.entrySet()){
+        /*for(Map.Entry<String,Integer> result: linkedHashMap.entrySet()){
             System.out.println(result.getKey()+" : "+result.getValue());
-        }
+        }*/
     }
 
 }

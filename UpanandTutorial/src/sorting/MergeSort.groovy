@@ -49,6 +49,10 @@ class MergeSort {
         }
     }
 
+
+
+    
+
     /**
      *
      * @param ints
@@ -82,7 +86,7 @@ class MergeSort {
                 i++
             }else{
                 ints[k]=r[j]
-                j++;
+                j++
             }
             k++
         }

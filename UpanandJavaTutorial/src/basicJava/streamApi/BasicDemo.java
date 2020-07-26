@@ -13,7 +13,7 @@ public class BasicDemo {
         integers.add(10);
         integers.add(2);
         integers.add(25);
-        //can you plesea list out all the element which is even number in a list
+        //can you please list out all the element which is even number in a list
         System.out.println(integers);
         //until 1.7
         ArrayList<Integer> list = new ArrayList<Integer>();
