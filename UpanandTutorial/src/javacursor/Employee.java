@@ -3,11 +3,20 @@ package javacursor;
 public class Employee {
     int empId;
     String name;
-    int salary;
+    String dept;
 
-    public Employee(int empId, String name, int salary) {
+    public Employee(int empId, String name, String dept) {
         this.empId = empId;
         this.name = name;
-        this.salary = salary;
+        this.dept = dept;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "empId=" + empId +
+                ", name='" + name + '\'' +
+                ", department=" + dept +
+                '}';
     }
 }

@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3fce42-14f6-49d0-90fe-54febab8a0d3" name="Default Changelist" comment="committed">
-      <change afterPath="$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8concept/StreamWIthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8concept/StreamWitFInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicPractice/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/ImplementSampleFI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/SampleFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/StreamConvertStringtoInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractExtended.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceJava8Feature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacursor/BasedOnTwoField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacursor/ComparableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javatrickyquestion/InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/ConvertStringtoInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/PlatformProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/array/SmallestSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaximumSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/hastable/WordSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/stringques/Minimum_Window_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/stringques/SmallSubstringConsistAllDistinctChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missiondsa180Ques/stringques/StringSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ExecutorSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/META-INF/UpanandTutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Accolite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/basicPractice/Accolite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/MapClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/dataStructure/MapClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/javacursor/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/javacursor/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UpanandTutorial/javacursor/EmployeeDriverClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UpanandTutorial/javacursor/EmployeeDriverClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicPractice/Accolite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicPractice/Accolite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/MapClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/MapClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacursor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacursor/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacursor/EmployeeDriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacursor/EmployeeDriverClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,64 +48,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveAllduplicate.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/StringSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="-318">
+              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/OddEven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/accolite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/factory/OperatingSystem.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/CoinChane.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/factory/Factory.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/SmallSubstringConsistAllDistinctChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/factory/ClientImplemention.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="-19">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,36 +78,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8concept/StreamWitFInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/Minimum_Window_Substring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="272">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/PlatformProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-93">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java8concept/StreamWIthString.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/SmallestSubSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/ReverseWordOnceAain.java">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaximumSubSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RailwayPlatform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacursor/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -136,6 +158,8 @@
       <find>bookingInterval</find>
       <find>input.txt</find>
       <find>instanceOf</find>
+      <find>thenC</find>
+      <find>finally</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,32 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sapient/SyncFeatures.java" />
-        <option value="$PROJECT_DIR$/src/multithreading/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/SortinDescendingOrder.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/Operator.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/ImplementOperator.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/ImplementSubtration.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/ImplementMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/ImplementAddition.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/ClientImplementation.java" />
-        <option value="$PROJECT_DIR$/src/javatrickyquestion/avoidifelse/FactoryClass.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/factory/ClientImplemention.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/factory/Factory.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/WaterJugProble.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/ValidPallindrome.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/swapWithoutUsingTemp.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/LongesSubSequence.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/math/FibSer.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/FibSer.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/StackOverFLowQues.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/MaximumRodCutting.java" />
-        <option value="$PROJECT_DIR$/src/javainterviewquestion/WrapperClass.java" />
-        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/basicPractice/TryCatch.java" />
-        <option value="$PROJECT_DIR$/src/immutable/Arrayj.java" />
-        <option value="$PROJECT_DIR$/src/immutable/ImmutabilityConceptStudent.java" />
-        <option value="$PROJECT_DIR$/src/immutable/ImplementingImmutableConcept.java" />
         <option value="$PROJECT_DIR$/src/immutable/AddressClass.java" />
         <option value="$PROJECT_DIR$/src/immutable/ImmutableEmployeeClass.java" />
         <option value="$PROJECT_DIR$/src/immutable/DriverOfEmployeeImmutable.java" />
@@ -203,9 +201,35 @@
         <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/AllpairWIthGivenSum.java" />
         <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveAllduplicate.java" />
         <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/OddEven.java" />
-        <option value="$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java" />
         <option value="$PROJECT_DIR$/src/java8concept/StreamWitFInterface.java" />
         <option value="$PROJECT_DIR$/src/java8concept/StreamWIthString.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/StreamConvertStringtoInt.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/SampleFunctionalInterface.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/ImplementSampleFI.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/hastable/WordSentence.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/javatrickyquestion/InterviewQuestion.java" />
+        <option value="$PROJECT_DIR$/src/multithreading/ExecutorSample.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractExtended.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceJava8Feature.java" />
+        <option value="$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/ConvertStringtoInt.java" />
+        <option value="$PROJECT_DIR$/src/javacursor/Employee.java" />
+        <option value="$PROJECT_DIR$/src/javacursor/EmployeeDriverClass.java" />
+        <option value="$PROJECT_DIR$/src/javacursor/ComparableDemo.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/MapClass.java" />
+        <option value="$PROJECT_DIR$/src/javacursor/BasedOnTwoField.java" />
+        <option value="$PROJECT_DIR$/src/basicPractice/Accolite.java" />
+        <option value="$PROJECT_DIR$/src/basicPractice/I.java" />
+        <option value="$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/SmallSubstringConsistAllDistictChar.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/SmallSubstringConsistAllDistinctChar.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/StringSample.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/stringques/Minimum_Window_Substring.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/PlatformProblem.java" />
+        <option value="$PROJECT_DIR$/src/missiondsa180Ques/array/SmallestSubSequence.java" />
       </list>
     </option>
   </component>
@@ -227,6 +251,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +275,48 @@
               <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8concept" type="462c0819:PsiDirectoryNode" />
+              <item name="customizedhmapsorting" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicprogrammng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+              <item name="hastable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="missiondsa180Ques" type="462c0819:PsiDirectoryNode" />
+              <item name="stringques" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UpanandTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UpanandTutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -261,8 +328,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,9 +359,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamWIthString">
-    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.array.OddEven" />
+  <component name="RunManager" selected="Application.SmallestSubSequence">
+    <configuration name="Minimum_Window_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.stringques.Minimum_Window_Substring" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="missiondsa180Ques.stringques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.array.PlatformProblem" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
@@ -308,8 +386,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.array.RemoveAllduplicate" />
+    <configuration name="SmallSubstringConsistAllDistinctChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.stringques.SmallSubstringConsistAllDistinctChar" />
+      <module name="UpanandTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="missiondsa180Ques.stringques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.array.SmallestSubSequence" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
@@ -321,38 +412,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamWIthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8concept.StreamWIthString" />
+    <configuration name="StringSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missiondsa180Ques.stringques.StringSample" />
       <module name="UpanandTutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8concept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamWitFInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8concept.StreamWitFInterface" />
-      <module name="UpanandTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8concept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="customizedhmapsorting.TreeExample" />
-      <module name="UpanandTutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="customizedhmapsorting.*" />
+          <option name="PATTERN" value="missiondsa180Ques.stringques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamWIthString" />
-        <item itemvalue="Application.StreamWitFInterface" />
-        <item itemvalue="Application.TreeExample" />
-        <item itemvalue="Application.OddEven" />
-        <item itemvalue="Application.RemoveAllduplicate" />
+        <item itemvalue="Application.SmallestSubSequence" />
+        <item itemvalue="Application.PlatformProblem" />
+        <item itemvalue="Application.StringSample" />
+        <item itemvalue="Application.Minimum_Window_Substring" />
+        <item itemvalue="Application.SmallSubstringConsistAllDistinctChar" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +483,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33765182" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35060728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +492,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33570158" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25399646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61456484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,7 +514,7 @@
       <window_info anchor="right" id="Maven" order="7" weight="0.32955465" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33360323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35060728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +523,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3463588" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61456484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,327 +607,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/UniqueImages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/CoinChane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/FibSer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/LongestSubstringOnceAgain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/LongesSubSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/LongestIncreasingSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/MaximumRodCutting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-409">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stack/BalancedParanthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/BalancedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/CharToIntConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/DecodeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/DuplicateCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/IsLapindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/RemoveDup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/RemoveDupOnceAgain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReverseWordInSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StringImmutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/synechron/MapAndSortString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serializable/ImplementSerializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serializable/DriverClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/CheckNullStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/col.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/ErrorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/Objectclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/SetSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/SingeltonClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/SyncFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/Synch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/MethodOveriding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sapient/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/ValidPallindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/swapWithoutUsingTemp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/SortinDescendingOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/ReverseWordStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multithreading/OddEven.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multithreading/PC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RemoveAllduplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/OddEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/accolite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/factory/OperatingSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/designpattern/factory/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -874,16 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,6 +633,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/StreamConvertStringtoInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/SampleFunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/ImplementSampleFI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/CommonChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/WordSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/ArrayAndFreq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13039">
+          <caret line="818" column="7" selection-start-line="818" selection-start-column="7" selection-end-line="818" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="269" column="6" selection-start-line="269" selection-start-column="6" selection-end-line="269" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/ReverseWordOnceAain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -906,13 +717,319 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8concept/StreamWIthString.java">
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javatrickyquestion/InterviewQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javadoc/Deadlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javadoc/DeadLockOwn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithreading/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithreading/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="87" column="33" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithreading/ExecutorSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceJava8Feature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/InterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractExtended.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/abstractinterfacediffJava8/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/ConvertStringtoInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/ComparableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8concept/StreamWIthString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/EmpIdComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/MapClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/EmployeeDriverClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/ImplementComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/BasedOnTwoField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javatrickyquestion/TryFInally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sapient/ErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicPractice/Accolite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicPractice/I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customizedhmapsorting/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customizedhmapsorting/TreeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacursor/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/dynamicprogrammng/CoinChane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/SmallSubstringConsistAllDistinctChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/StringSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/stringques/Minimum_Window_Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/RailwayPlatform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaximumSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/hastable/MaxSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/PlatformProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missiondsa180Ques/array/SmallestSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>

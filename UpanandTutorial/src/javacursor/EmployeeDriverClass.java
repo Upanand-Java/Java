@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 
 public class EmployeeDriverClass {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ArrayList<Employee> employees = new ArrayList<Employee>();
         employees.add(new Employee(12,"upanand",123456));
         employees.add(new Employee(1,"virat",123451));
@@ -19,6 +19,6 @@ public class EmployeeDriverClass {
 
         for(Employee employee: employees){
             System.out.println(employee.name+" "+employee.empId);
-        }
-    }
+        }*/
+
 }

@@ -22,6 +22,7 @@ class StudentSet{
                 ", name='" + name + '\'' +
                 '}';
     }
+
 }
 
 public class TreeExample {
@@ -48,6 +49,11 @@ public class TreeExample {
 
 
         System.out.println(integers);
+
+        HashMap<StudentSet,Integer> map  = new HashMap<>();
+        map.put(new StudentSet(1,"upanand"),1);
+        map.put(new StudentSet(3,"ups"),2);
+        System.out.println(map);
 
     }
 }

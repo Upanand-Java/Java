@@ -10,7 +10,7 @@ public class MapClass {
 
 
        HashMap<Employee, Integer> employeeIntegerHashMap = new HashMap<>();
-       employeeIntegerHashMap.put(new Employee(1,"upi",33),9999);
+       //employeeIntegerHashMap.put(new Employee(1,"upi",33),9999);
    }
 
 }
