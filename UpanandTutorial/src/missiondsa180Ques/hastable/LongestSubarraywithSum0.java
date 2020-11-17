@@ -2,6 +2,7 @@ package missiondsa180Ques.hastable;
 
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 
 public class LongestSubarraywithSum0 {
     public static void main(String[] args) {
@@ -13,6 +14,8 @@ public class LongestSubarraywithSum0 {
         //we need to put in hashmap , sum as a key and index as value
 
         HashMap<Integer,Integer> hashMap = new HashMap<>();
+
+        Map<String , String> mp = new HashMap<>();
 
         int[] sum = new int[arr.length];
 

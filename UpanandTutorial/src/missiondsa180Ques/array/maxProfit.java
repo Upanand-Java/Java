@@ -43,11 +43,11 @@ public class maxProfit {
 
     }
 
-    private static int totalProfit(int[] prices) {
+    private static int totalProfit(int[] prices) { // if there is 1 brokerage
         int totalProfit = 0;
         for(int i =0; i<prices.length-1 ; i++ ){
             if (prices[i]<prices[i+1]){
-                totalProfit += prices[i+1] - prices[i];
+                totalProfit += prices[i+1] - prices[i]-1;
             }
 
 

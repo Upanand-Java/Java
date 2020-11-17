@@ -28,6 +28,9 @@ public class ImplementationClass {
 
         System.out.println(s1 == s2);
 
+        System.out.println(s1.hashCode());
+
+
        // Singelton singelton = new Singelton(); //I am getting error that prove we cant instantiate singelton class
     }
 }

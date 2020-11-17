@@ -3,6 +3,7 @@ package basicGroovyCodePractice
 class RangeDemo {
     public static void main(String[] args) {
         Range range = 1 ..<10
+       // Range r  = new ArrayList<>()
         println range
         println("Range are ${range}")
         assert (0..10).contains(1)

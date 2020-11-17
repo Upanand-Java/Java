@@ -6,9 +6,11 @@ import java.util.Stack;
 
 public class OddEven {
     public static void main(String[] args) {
-        int[] arr = {5,4,3,5,4,3,5,4,3,2,2,2,5,4,3};
+       // int[] arr = {5,4,3,5,4,3,5,4,3,2,2,2,5,4,3};
+        int[] arr = {7,8,8,4,2,6,8,8,10,8};
 
         int opt = getOdd(arr);
+      //  System.out.println("ijj "+opt);
         //1,1,1,2,2,3,3
         Arrays.sort(arr);
         Stack<Integer> integers = new Stack<>();

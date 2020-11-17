@@ -9,7 +9,7 @@ class ListDemo {
         b << [1,2]
         println(b.flatten())
         println(b.getClass())
-        println("${b.getAt(0..3)}")
+        println("${b.getAt(0..6)}")
 
         for(ints in b){
             println(ints)

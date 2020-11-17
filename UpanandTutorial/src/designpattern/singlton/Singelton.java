@@ -1,6 +1,6 @@
 package designpattern.singlton;
 
-public class Singelton {
+public class Singelton implements Cloneable {
 
     private static  Singelton myObj ;
 
@@ -10,6 +10,11 @@ public class Singelton {
         if(myObj == null)
             myObj = new Singelton();
         return myObj;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return getInstance();
     }
 
     public void showmessage(){

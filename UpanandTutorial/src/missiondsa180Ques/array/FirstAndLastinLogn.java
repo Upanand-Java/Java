@@ -4,11 +4,11 @@ package missiondsa180Ques.array;
 
 public class FirstAndLastinLogn {
     public static void main(String[] args) {
-        int[] arr = {5,7,7,8,8,10};
+        int[] arr = {1,3,3,3,3,3,3,3,7,9};
         int[] output = new int[2];
-        output[0] = firstSearch(arr ,8 );
+        output[0] = firstSearch(arr ,3);
         System.out.println(output[0]);
-        if(output[0] != -1) {
+       /* if(output[0] != -1) {
             if (arr[output[0] + 1] == 8) {
                 output[1] = output[0] + 1;
             } else if (arr[output[0] - 1] == 8) {
@@ -20,7 +20,7 @@ public class FirstAndLastinLogn {
             output[1] = -1;
         }
         //output[1] = secondSearch(arr ,8 );
-        System.out.println(output[1]);
+        System.out.println(output[1]);*/
     }
 
     private static int firstSearch(int[] arr, int i) {

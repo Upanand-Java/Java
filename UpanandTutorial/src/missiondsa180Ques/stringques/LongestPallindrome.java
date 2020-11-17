@@ -23,8 +23,8 @@ public class LongestPallindrome {
 
         }
 
-        if(maxLength<high-low-1){
-            maxLength = high-low-1;
+        if(maxLength<high-1-low){
+            maxLength = high-1-low;
             lowerIndex = low+1;
         }
 

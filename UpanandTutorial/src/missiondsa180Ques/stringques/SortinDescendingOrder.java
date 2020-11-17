@@ -12,7 +12,7 @@ public class SortinDescendingOrder {
 
         Set<Map.Entry<Character,Integer>> entrySet = integerHashMap.entrySet();
         List<Map.Entry<Character,Integer>> entryList = new ArrayList<>(entrySet);
-         Collections.sort(entryList,Comparator.comparingInt(e1 ->e1.getValue()));
+         Collections.sort(entryList,Comparator.comparingInt(e1 ->e1.getKey()));
         //Collections.sort(entryList,(o1, o2) -> (o1.getValue()>o2.getValue())?-1:(o1.getValue()<o2.getValue())?1:0);
         StringBuilder result = new StringBuilder();
         for(Map.Entry<Character,Integer> entry:entryList){

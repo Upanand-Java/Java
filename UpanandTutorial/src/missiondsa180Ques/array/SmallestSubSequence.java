@@ -1,6 +1,9 @@
 package missiondsa180Ques.array;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class SmallestSubSequence {
     public static void main(String[] args) {
@@ -13,7 +16,10 @@ public class SmallestSubSequence {
     }
 
     private static int findMaxSubArray(int[] arr, int k) {
-        Arrays.sort(arr);
+        Arrays.parallelSort(arr,0,arr.length);
+        List<Integer> ls = new ArrayList<Integer>();
+      //int[] a =  ls.toArray();
+        // Arrays.parallelSort(ls.toArray(new Object[ls.size()]) , 0,5);
         int sum =0;
         int count =0;
         for(int j=arr.length-1;j>=0;j--){

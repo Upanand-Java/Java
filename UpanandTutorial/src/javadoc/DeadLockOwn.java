@@ -15,10 +15,10 @@ public class DeadLockOwn {
     }
 
     public  void m2(){
-        synchronized (b){
+        synchronized (a){
             System.out.println("I required lock2 to access");
 
-            synchronized (a){
+            synchronized (b){
                 System.out.println("I required lock1 to access");
             }
         }
@@ -38,8 +38,9 @@ public class DeadLockOwn {
       Thread t2 =  new Thread(new Runnable() {
             @Override
             public void run() {
-                deadLockOwn.m2();
+
                 deadLockOwn.m1();
+                deadLockOwn.m2();
             }
         });
         t1.start();

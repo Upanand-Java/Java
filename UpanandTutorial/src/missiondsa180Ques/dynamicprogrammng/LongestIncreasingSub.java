@@ -1,6 +1,7 @@
 package missiondsa180Ques.dynamicprogrammng;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class LongestIncreasingSub {
@@ -16,6 +17,7 @@ public class LongestIncreasingSub {
                // System.out.println("inside "+nums[i]+" "+list);
             }else{
                 int c  = ceilingIdx(list,0,list.size()-1,nums[i]);
+
                 //list.add(c,nums[i]);
                 list.set(c,nums[i]);
               //  System.out.println(list);

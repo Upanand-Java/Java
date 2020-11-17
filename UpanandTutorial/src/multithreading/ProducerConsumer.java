@@ -39,7 +39,7 @@ public class ProducerConsumer {
 
     public static class ProdCons{
         LinkedList<Integer> integers = new LinkedList<>();
-        int capacity = 2;
+        int capacity = 10;
         int val = 0;
 
         public void produce() throws InterruptedException {
@@ -61,7 +61,7 @@ public class ProducerConsumer {
 
         public void consume() throws InterruptedException {
 
-            while(true)
+            while(integers.size() !=0)
                 synchronized (this){
                     while (integers.size() == 0) {
                         wait();

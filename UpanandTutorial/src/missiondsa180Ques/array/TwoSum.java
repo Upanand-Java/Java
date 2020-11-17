@@ -1,6 +1,9 @@
 package missiondsa180Ques.array;
 
 import java.util.HashMap;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class TwoSum {
     public static void main(String[] args) {
@@ -33,5 +36,6 @@ public class TwoSum {
             e.printStackTrace();
         }
         System.out.println("hello");
+      // List<Integer> a = Stream.of(nums).sorted().collect(Collectors.toList());
     }
 }

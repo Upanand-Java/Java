@@ -14,4 +14,8 @@ public interface SampleFunctionalInterface {
          return "static m1 method";
       }
 
+      default String method(){
+         return "upanand";
+      }
+
 }

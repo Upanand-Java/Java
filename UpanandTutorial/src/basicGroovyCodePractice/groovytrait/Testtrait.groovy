@@ -1,6 +1,6 @@
 package basicGroovyCodePractice.groovytrait
 
-trait Testtrait {
+trait Testtrait implements InterfaceSample ,Sample2  {
 
     abstract String foo()
     abstract String test()
@@ -12,4 +12,11 @@ trait Testtrait {
         return "Returing m1 method"
     }
 
+    private String name1(){
+        return "upanand";
+    }
+
+    String name;
+
 }
+

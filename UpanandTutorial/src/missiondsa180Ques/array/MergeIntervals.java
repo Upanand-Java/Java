@@ -1,5 +1,5 @@
 package missiondsa180Ques.array;
 
 public class MergeIntervals {
-    int[][] nums = {{1,2},{2,3},{3,5}};
+    static int[][] nums = {{1,2},{2,3},{3,5}};
 }
